@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'prashant.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd4dl9qnia3ciaa',
-        'USER': 'hsfmsmxsoxhqxx',
-        'HOST': 'ec2-23-20-73-25.compute-1.amazonaws.com',
+        'NAME': 'd806mm82c7m5qq',
+        'USER': 'ppanvccvzslwcd',
+        'HOST': 'ec2-18-215-96-22.compute-1.amazonaws.com',
         'PORT': 5432,
-        'PASSWORD': 'a45e36924cf6dd7eece878e693f4a6de62370efe569436c4c9a89676d7e94af0',
+        'PASSWORD': '0b211b113379f532887138800d4254acbb4add2b8d668da81162018b7289db76',
     }
 }
 
